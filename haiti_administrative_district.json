@@ -1,0 +1,222 @@
+{
+  "departments":[
+    {
+      "name": "Artibonite",
+      "arrondissements": [
+        {
+          "name": "Dessalines",
+          "communes": ["Dessalines", "Desdunes", "Grande-Saline", "Petite Rivière de l'Artibonite"]
+        },
+        {
+          "name": "Gonaïves",
+          "communes": ["Gonaïves", "Ennery", "L'Estère"]
+        },
+        {
+          "name": "Gros-Morne",
+          "communes": ["Gros-Morne", "Anse-Rouge", "Terre-Neuve"]
+        },
+        {
+          "name": "Marmelade",
+          "communes": ["Marmelade", "Saint-Michel-de-l'Atalaye"]
+        },
+        {
+          "name": "Saint-Marc",
+          "communes": ["Saint-Marc", "La Chapelle", "Liancourt", "Verrettes"]
+        }
+      ]
+    },
+    {
+      "name": "Centre",
+      "arrondissements": [
+        {
+          "name": "Cerca-la-Source",
+          "communes": ["Cerca-la-Source", "Thomassique"]
+        },
+        {
+          "name": "Hinche",
+          "communes": ["Hinche", "Cerca-Carvajal", "Maïssade", "Thomonde"]
+        },
+        {
+          "name": "Lascahobas",
+          "communes": ["Lascahobas", "Baptiste", "Belladère", "Savanette"]
+        },
+        {
+          "name": "Mirebalais",
+          "communes": ["Mirebalais", "Boucan-Carré", "Saut-d'Eau"]
+        }
+      ]
+    },
+    {
+      "name": "Grand'Anse",
+      "arrondissements": [
+        {
+          "name": "Anse d'Hainault",
+          "communes": ["Saint-Marc", "La Chapelle", "Liancourt", "Verrettes"]
+        },
+        {
+          "name": "Corail",
+          "communes": ["Saint-Marc", "La Chapelle", "Liancourt", "Verrettes"]
+        },
+        {
+          "name": "Jérémie",
+          "communes": ["Saint-Marc", "La Chapelle", "Liancourt", "Verrettes"]
+        }
+      ]
+    },
+    {
+      "name": "Nippes",
+      "arrondissements": [
+        {
+          "name": "Anse-à-Veau",
+          "communes": ["Anse-à-Veau", "Arnaud", "L'Asile", "Petit-Trou-de-Nippes", "Plaisance-du-Sud"]
+        },
+        {
+          "name": "Baradères",
+          "communes": ["Baradères", "Grand-Boucan"]
+        },
+        {
+          "name": "Miragoâne",
+          "communes": ["Miragoâne", "Fonds-des-Nègres", "Paillant", "Petite-Rivière-de-Nippes"]
+        }
+      ]
+    },
+    {
+      "name": "Nord",
+      "arrondissements": [
+        {
+          "name": "Acul-du-Nord",
+          "communes": ["Acul-du-Nord", "Milot", "Plaine-du-Nord"]
+        },
+        {
+          "name": "Borgne",
+          "communes": ["Borgne", "Port-Margot"]
+        },
+        {
+          "name": "Cap-Haïtien",
+          "communes": ["Cap-Haïtien", "Limonade", "Quartier-Morin"]
+        },
+        {
+          "name": "Grande-Rivière-du-Nord",
+          "communes": ["Grande-Rivière-du-Nord", "Bahon"]
+        },
+        {
+          "name": "Limbé",
+          "communes": ["Limbé", "Bas-Limbé"]
+        },
+        {
+          "name": "Plaisance",
+          "communes": ["Plaisance", "Pilate"]
+        },
+        {
+          "name": "Saint-Raphaël",
+          "communes": ["Saint-Raphaël", "Dondon", "La Victoire", "Pignon", "Ranquitte"]
+        }
+      ]
+    },
+    {
+      "name": "Nord-Est",
+      "arrondissements": [
+        {
+          "name": "Fort-Liberté",
+          "communes": ["Fort-Liberté", "Perches", "Ferrier"]
+        },
+        {
+          "name": "Ouanaminthe",
+          "communes": ["Ouanaminthe", "Capotille", "Mont-Organisé"]
+        },
+        {
+          "name": "Trou-du-Nord",
+          "communes": ["Trou-du-Nord", "Caracol", "Sainte-Suzanne", "Terrier-Rouge"]
+        },
+        {
+          "name": "Vallières",
+          "communes": ["Vallières", "Carice", "Mombin-Crochu"]
+        }
+      ]
+    },
+    {
+      "name": "Nord-Ouest",
+      "arrondissements": [
+        {
+          "name": "Môle-Saint-Nicholas",
+          "communes": ["Môle-Saint-Nicolas", "Baie-de-Henne", "Bombardopolis", "Jean-Rabel"]
+        },
+        {
+          "name": "Port-de-Paix",
+          "communes": ["Port-de-Paix", "Bassin-Bleu", "Chansolme", "Lapointe", "La Tortue"]
+        },
+        {
+          "name": "Saint-Louis-du-Nord",
+          "communes": ["Saint-Louis-du-Nord", "Anse-à-Foleur"]
+        }
+      ]
+    },
+    {
+      "name": "Ouest",
+      "arrondissements": [
+        {
+          "name": "Arcahaie",
+          "communes": ["Arcahaie", "Cabaret"]
+        },
+        {
+          "name": "Croix-des-Bouquets",
+          "communes": ["Croix-des-Bouquets", "Cornillon", "Fonds-Verrettes", "Ganthier", "Thomazeau"]
+        },
+        {
+          "name": "Gonâve",
+          "communes": ["Anse-à-Galets", "Pointe-à-Raquette"]
+        },
+        {
+          "name": "Léogâne",
+          "communes": ["Léogâne", "Grand-Goâve", "Petit-Goâve"]
+        },
+        {
+          "name": "Port-au-Prince",
+          "communes": ["Port-au-Prince", "Carrefour", "Cité Soleil", "Delmas", "Gressier", "Kenscoff", "Pétion-Ville", "Tabarre"]
+        }
+      ]
+    },
+    {
+      "name": "Sud-Est",
+      "arrondissements": [
+        {
+          "name": "Bainet",
+          "communes": ["Bainet", "Côtes-de-Fer"]
+        },
+        {
+          "name": "Belle-Anse",
+          "communes": ["Belle-Anse", "Anse-à-Pitres", "Grand-Gosier", "Thiotte"]
+        },
+        {
+          "name": "Jacmel",
+          "communes": ["Jacmel", "Cayes-Jacmel", "La Vallée", "Marigot"]
+        }
+      ]
+    },
+    {
+      "name": "Sud",
+      "arrondissements": [
+        {
+          "name": "Aquin",
+          "communes": ["Aquin", "Cavaillon", "Saint-Louis-du-Sud", "Fond des Blancs"]
+        },
+        {
+          "name": "Les Cayes",
+          "communes": ["Les Cayes", "Camp-Perrin", "Chantal", "Île-à-Vache", "Maniche", "Torbeck"]
+        },
+        {
+          "name": "Chardonnières",
+          "communes": ["Chardonnières", "Les Anglais", "Tiburon"]
+        },
+        {
+          "name": "Côteaux",
+          "communes": ["Côteaux", "Port-à-Piment", "Roche-à-Bateaux"]
+        },
+        {
+          "name": "Port-Salut",
+          "communes": ["Port-Salut", "Arniquet", "Saint-Jean-du-Sud"s]
+        }
+      ]
+    }
+  ]
+}
